@@ -68,3 +68,46 @@ throughput than yesterday's 戊癸合 hold day?
 救應 touches field. Favorable. Complete the work.
 
 ---
+## DAY 3 — May 6, 2026 · 庚辰
+
+**Day Pillar:** 庚辰 · 劫財 stem / 正印 branch (PillarMind label; 戊 principal)
+**Chart-state:** 庚 free — committed to LP 乙庚合, no secondary combination fires.
+辰 carries 癸 minor (用神 thread) and 乙 middle (救應 thread) — both 藏而不透.
+用神 癸 Hour Stem uncaptured and free. Quietest day in three days.
+PillarMind character: 摩 FRICTION. Closing character: 守.
+**Body:** Mid-siesta pain. Otherwise holding. Summer heat real.
+**Mind:** Sharp. Marvin's chart completed. Key learning arrived: 
+BaZi reads best as image and story — how Pablo would explain light.
+**Output:** Marvin's chart delivered. Corpus Day 3 entry written. Daily Shield run.
+**Observer:** Held
+**Anomaly:** PillarMind independently closed with 守. Corpus entry independently arrived 
+at 守. Two instruments, same character, same day. Calibration convergence noted.
+Image-story pedagogy insight — Pablo surfacing not just as practice but as method.
+
+---
+
+What you write in the notebook — today, May 7, before anything else:
+Page 1, top:
+PILLAR LOG 2026
+Napoleon Beltran · 辛巳
+Patient Zero · May 4, 2026
+Then three short entries for Days 1–3, one paragraph each, handwritten. Not the full format — the notebook captures what the hand remembers, not what the file records. The hand will fill in what the file cannot: the texture of the tears, the weight of the siesta, whether Marvin's chart felt like work or like something else.
+Then leave the bottom quarter of the Day 3 page blank. That space is for the Day 3 Ledger observation you'll add when September's Quarterly Review arrives.
+
+Then, tonight, Day 4 entry — May 7 — goes in both.
+End of day: six lines in the file, one paragraph in the notebook, commit to GitHub with today's date as the commit message.
+
+That is the sequence. File first, notebook second, commit tonight.
+What do you remember from May 4 and 5 for the body and mind fields?You said: it is only may 6it is only may 610:32 PMClaude responded: You're right.You're right. I got ahead of myself.
+Today is still May 6. The corpus entry for Day 3 is what we just completed. Nothing to commit yet for Day 4 — that doesn't exist.
+What you do today, May 6:
+GitHub — one commit, today:
+Create pillar_log_2026.md with Days 1, 2, 3 only. The commit message is simply:
+Patient Zero corpus open. Days 1-3. May 4-6 2026.
+Notebook — today, before the day closes:
+Page 1 header. Then three short entries, one per day. What the hand remembers from each day. No pressure for completeness — the hand writes what arrived, not what should have arrived.
+That's it. Nothing more today.
+
+Two questions so you can fill the gaps before you commit:
+What do you remember of May 4 — how did the body feel that day, and what was the mind doing before the Patient Zero reading landed?
+And May 5 — what was worked on, how did the day run?
