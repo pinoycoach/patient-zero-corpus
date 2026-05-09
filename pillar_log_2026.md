@@ -167,3 +167,30 @@ Observer position: held
 
 Anomaly: PillarMind said 守 before the day was reviewed. The day 
 matched its own reading.
+---
+DAILY CORPUS ENTRY — May 9, 2026 · 癸未
+
+DAY PILLAR: 癸未 · Guǐ Wèi
+PILLARMIND: 食神 Stem / 偏印 Branch · 摩 FRICTION
+
+CHART-STATE SNAPSHOT
+癸 用神 at stem, uncaptured. 未 branch: 己 忌神 principal, 丁 七殺 middle, 乙 救應 minor (藏而不透). 午未六合 locks natal 月支 — 丑未沖 with LP ELIMINATED today. LP foundation protected. Partial Fire tendency from 午未合 opposed by monthly 癸 Water; transformation does not complete. 用神 operates uncaptured, LP root intact.
+
+ENERGETIC OBSERVATION
+Body: tired-restful
+Mind: clear-limited
+
+OUTPUT / HOLD
+Light output only — Chico standup observation, Warka healing session account. Nothing political, nothing structurally heavy. Held the heavier material.
+
+OBSERVER-POSITION CHECK
+Held.
+
+ANOMALY FLAG
+Healing session with Warka. Shoulder pain present but relieved. Body in post-treatment state — tired and restful simultaneously, a different quality than ordinary fatigue. Summer heat registered differently today, body more permeable than usual. Anticipating sleep with visions. This is a body-state that does not map cleanly to any prior entry. Recording as anomaly: the physical field is doing something after the session that the chart did not specifically predict and the observer cannot yet name. Flag for Quarterly Review comparison.
+
+PILLARMIND CLOSE: 守. The structure is doing exactly what it was built to do.
+Second consecutive 守 close. Patient Zero (May 4) closed with 守. May 9 closes with 守. The corpus notes the recurrence without interpreting it yet. Frequency data only at this stage.
+
+DA VINCI LEDGER — May 9
+The 用神 was uncaptured today and the LP foundation was protected from clash. Did the healing session with Warka function as the Water-bridge protocol the Shield prescribed for days when the formation holds structurally — and did the body's post-session state (tired-restful, visions anticipated) register as the parasympathetic return the chart's renal-adrenal axis structurally requires?
