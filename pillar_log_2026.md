@@ -321,3 +321,38 @@ Operations: knowledge accumulation, corpus building, private reading discipline.
 Network: 子丑合 locks LP branch in harmony — intimate architecture stable and supported today.
 Mechanical Necessity: The 用神 received branch reinforcement today. The task is to rest inside that reinforcement rather than spend it.
 Ledger note: The incoming 大運 visited today as a daily pillar. The chart showed you what 甲子 feels like in the body before it arrives structurally. Record that.
+--
+CORPUS ENTRY — May 13, 2026 · 丁亥
+## DAY 10 — May 13, 2026 · 丁亥
+
+**Day Pillar:** 丁亥 · 七殺 stem / 傷官+正財 branch (壬甲 hidden in 亥)
+**Chart-state:** 丁 Seven Killings transparent at surface — Formation Force 
+uncontrolled at stem layer. 巳亥沖 ELIMINATED (巳 locked in 巳酉丑 三合). 
+亥 carries 壬 傷官 (absent from natal — rare activation) and 甲 正財 minor 
+(救應-adjacent Wood thread). 用神 癸 uncaptured today — freest it has been 
+this week. Formation Force and 用神 both at surface simultaneously.
+
+**Body:** Held but weaker towards evening. Disturbed during rosary — 
+before the senate shooting episode was known. Body registered the 七殺 
+structural condition before the event became public. Coconut juice AM. 
+Porkchop salad + rice small portion PM.
+
+**Mind:** Sharp. Code correction completed this afternoon. 
+Productive work session despite the national disturbance.
+
+**Output:** Code correction (afternoon). Corpus entry May 13. 
+Conversation archived to project file.
+
+**Observer position:** Held. Could not fully separate from what was 
+happening in the country — named it as real worry, not observer drift. 
+Distinction preserved: "I will be ok" + rosary done + Dennis + sleep. 
+The worry is allowed to exist. The observer is not asked to be inhuman.
+
+**Anomaly:** Body disturbed during rosary BEFORE the senate shooting 
+episode was consciously known. 七殺 at surface all day. The Formation 
+Force arriving unmediated — structural condition registered somatically 
+before information arrived. Flag for corpus: first recorded instance of 
+somatic precession of a structural condition. Not prediction. Instrument 
+noted.
+
+Dennis washed the dishes. Rosary done. Sleep follows.
