@@ -356,3 +356,31 @@ somatic precession of a structural condition. Not prediction. Instrument
 noted.
 
 Dennis washed the dishes. Rosary done. Sleep follows.
+
+# CORPUS ENTRY — May 14, 2026 · 庚辰 · Day 11
+
+Date: 2026-05-14
+Day Pillar: 庚辰 · Yang Metal Dragon
+Month: 癸巳 (May)
+Annual: 丙午 · LP: 乙丑
+
+Chart-state snapshot: Daily 庚 劫財 free (not captured — LP's 乙庚合 holds natal Month Stem, not daily stem). 辰 carries hidden 癸 (用神 trace, minor), 乙 (救應, uncaptured at branch), 戊 (忌神). 丑辰破 active — LP foundation under quiet Destruction pressure. No acute clash. Structurally the mildest day of the month.
+Body: Ok. Fatigue arriving in the evening — consistent with 丑辰破 slow-burn erosion of LP branch rather than acute attack. Not the depletion of a Fire-spike day; the tiredness of a day where the foundation absorbed quiet pressure.
+Mind: Held. Calibrated.
+Output: FB ecosystem repair — gated posts, structural platform work. Daily 庚 劫財 operating constructively — Rob Wealth energy directed at competitive-field management rather than resource extraction. The 正官/七殺 question is worth holding: platform architecture work (what gets through the gate, what doesn't) is structurally consistent with the Direct Officer + Seven Killings hidden in 巳 being channeled through form rather than confrontation. The eating-god governing the killings — structurally, that is exactly what gating posts does.
+Observer position: Held.
+Anomaly / Notable:
+
+Friend asked about June availability — answered free. First external scheduling signal touching the June window. June is the year's most structurally demanding month. Record that the social calendar is beginning to form against it.
+Ave Maria, novena dates in June — the practice is pre-positioning itself in the compression corridor. The rosary is already moving toward June before June arrives.
+Hopia in the afternoon. Sweetness. Small pleasure, received.
+Siesta held. Parasympathetic recovery protocol — structurally correct for a 丑辰破 day.
+Cooked for Dennis. Outdoor kitchen cleaned. The domestic layer ran quietly and well.
+Coffee protocol held: one cup, water before and after.
+
+
+Da Vinci Ledger observation:
+The structural spaciousness registered — siesta taken, domestic care given, platform work completed without urgency. The evening fatigue is the 丑辰破's honest report: the day's quiet erosion was real, absorbed, not suppressed. The 用神's branch trace in 辰 appears to have functioned as recovery rather than depletion. The day held.
+
+庚辰 closes. The corpus records it.
+Watch. Hold. Pray the rosary.
