@@ -384,3 +384,19 @@ The structural spaciousness registered — siesta taken, domestic care given, pl
 
 庚辰 closes. The corpus records it.
 Watch. Hold. Pray the rosary.
+--
+CORPUS ENTRY — May 15, 2026 · 己丑
+
+Date: May 15, 2026
+Day Pillar: 己丑 — 正印 Direct Seal / Ox branch
+Chart-state snapshot: 己 Direct Seal mirrors the Year Stem 己 — double 正印 surface activation today. 丑 branch mirrors the LP branch exactly — today's day is the LP in miniature. 己丑合 does not fire (no 甲 free). 丑午害 activates: LP 丑 and annual 午 Harm applies, and the day's 丑 adds a third point of 丑 pressure toward annual 午 — strained but not broken. 贪合忘冲: 丑 locked in 巳酉丑 三合, therefore 丑未沖 is not applicable today even if 未 were present. The 用神 癸 hidden in today's 丑 (藏而不透 — no 癸 surface stem on the day pillar, but reinforced at branch depth). A 正印 day for a chart whose 忌神 is Earth — the day runs as quiet 印破食 structural suppression, low temperature, not acute.
+Body: steady. Mind: clear.
+Output today: Loaded V8.1 + Shield V1 full Patient Zero reading into project file. Reviewed compression corridor parameters and May 16 opening. MRI scheduled May 21 confirmed. Corpus entry written. No public posts. The May 6–15 window seal closes tonight — seal opens tomorrow.
+Observer-position: held.
+Anomaly: The day pillar is 己丑 — the LP branch and stem arriving together as the day's pillar on the day the project file closes and the compression corridor officially opens tomorrow. The instrument naming the decade's container on the day the observer sets down what was learned in its first eleven days. Not an anomaly requiring action. A structural observation worth recording.
+
+SEAL NOTE — May 6–15 window:
+The seal opened tomorrow (May 16). Tonight's corpus entry closes the window's observation period. The seal debrief belongs to May 16's first task before anything else opens.
+
+THE DAILY LEDGER QUESTION — May 15, 2026
+Today's 丑 day pillar brought the LP's hidden 癸 用神 closer to the surface without fully exposing it. Did the ten days of the May 6–15 window — held under the seal — run with the 用神 in this condition of concealed reinforcement rather than exposed vulnerability, such that the debrief tomorrow reads the window's record from a ground that was held rather than one that was spent?
