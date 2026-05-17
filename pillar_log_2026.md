@@ -418,3 +418,12 @@ Observation: Yes. The difference is the absence of internal resistance. The outp
 
 The compression corridor is open. The MRI is five days out. The rosary holds the observer.
 Watch. Hold. Pray the rosary.
+--
+CORPUS LOG — MAY 17, 2026
+
+Date / Pillar: May 17, 2026 · 丙辰日
+Chart-state snapshot: 丙辛合 active at daily stem — Day Master fused. 午午 self-punishment standing. 辰 feeds Earth/忌神 channel. Compression corridor Day 2.
+Energetic observation: Body — depleted. Mind — scattered/sad.
+Output: V9 Final + Shield V2 + V9 Corrections Patch completed and filed in project. Mass attended. Corpus entry completed. Shouted at kin — reactive discharge, observer position drifted.
+Observer-position check: Mixed. Held on the instrument work. Drifted in the afternoon — physical depletion crossed into voice. Caught it; named it here.
+Anomaly flag: Grief-adjacent sadness without clear external cause. Mass homily on why people leave landed on Tatay and Nanay. The mission question surfaced: capacity vs calling. Thought noted — not analyzed today.
