@@ -425,5 +425,27 @@ Date / Pillar: May 17, 2026 · 丙辰日
 Chart-state snapshot: 丙辛合 active at daily stem — Day Master fused. 午午 self-punishment standing. 辰 feeds Earth/忌神 channel. Compression corridor Day 2.
 Energetic observation: Body — depleted. Mind — scattered/sad.
 Output: V9 Final + Shield V2 + V9 Corrections Patch completed and filed in project. Mass attended. Corpus entry completed. Shouted at kin — reactive discharge, observer position drifted.
-Observer-position check: Mixed. Held on the instrument work. Drifted in the afternoon — physical depletion crossed into voice. Caught it; named it here.
+Observer-position check: Mixed. Held on the instrument work. Drifted in the afternoon — physical depletion crossed inSto voice. Caught it; named it here.
 Anomaly flag: Grief-adjacent sadness without clear external cause. Mass homily on why people leave landed on Tatay and Nanay. The mission question surfaced: capacity vs calling. Thought noted — not analyzed today.
+--Patient Zero Corpus — Day 5
+May 18, 2026 · 丙子 Day
+
+1. Date and day pillar: May 18, 2026 · 丙子
+2. Chart-state snapshot: 丙 Yang Fire Day Stem — 丙辛合 activates with natal Day Master 辛 (the institutional fusion event of the year arrives at the stem layer today). 子 Branch free — no natal lock, 午子沖 with Annual/LP 午午 field lands on the free 子 position. Water day inside a Fire-dominant active field. Thermally suppressed.
+3. Energetic observation: Body — rested. Mind — grounded.
+4. Output:
+
+Stealth build: compatibility mode Gemini LLM Pass 1 eliminated, replaced with deterministic JS synthesis. Meaningful progress. Hope visible in the architecture.
+Substack structural report drafted/in motion.
+Daily Tactical consulted.
+Corpus entry written.
+Held: early close, 8pm gate honored.
+
+5. Observer-position check: Held.
+6. Anomaly flag: Bathroom slip, night of May 17 → carried into May 18 log. Physical event, no injury noted. 丑午害 strain on Water axis active through corridor. Metal-Wood floor friction in Fire-dominant thermal state — note without interpretation. Flag for Quarterly Review pattern check.
+Dennis under the weather. The pattern noted: when he's depleted, depletion or unsettlement follows. Better today. Rest taken.
+
+The line that belongs here: faith is the forge, the charts are only maps.
+That's the cleanest thing written today. More true than any structural finding. The maps name the terrain. The grace gets you through it.
+The 8pm gate is the Metal boundary. Hold it tonight.
+Watch. Hold. Pray the rosary.
