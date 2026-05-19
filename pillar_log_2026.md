@@ -449,3 +449,12 @@ The line that belongs here: faith is the forge, the charts are only maps.
 That's the cleanest thing written today. More true than any structural finding. The maps name the terrain. The grace gets you through it.
 The 8pm gate is the Metal boundary. Hold it tonight.
 Watch. Hold. Pray the rosary.
+--
+# Corpus log — May 19, 2026 · 庚子
+
+Date / Pillar: May 19, 2026 · 庚子
+Chart-state: 子午 clash active (Water presses Annual Fire). 乙庚合 from daily stem captures LP Wood. 子未 harm mild.
+Body / Mind: OK / OK
+Output: Coding session. One public post — father essay (Pablo in the chart). Stealth PillarMind near-ready, pending items. MRI moved to tomorrow.
+Observer position: Held
+Anomaly: None. Sinigang bangus with real tamarind — Water and sour notes on a Metal-Water day. That was right without trying.
