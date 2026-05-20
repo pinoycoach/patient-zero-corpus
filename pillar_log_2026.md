@@ -458,3 +458,15 @@ Body / Mind: OK / OK
 Output: Coding session. One public post — father essay (Pablo in the chart). Stealth PillarMind near-ready, pending items. MRI moved to tomorrow.
 Observer position: Held
 Anomaly: None. Sinigang bangus with real tamarind — Water and sour notes on a Metal-Water day. That was right without trying.
+--
+# Date: May 20, 2026
+Day Pillar: 壬午
+Chart-state snapshot: 壬 (Yang Water, Hurting Officer) arrives at stem — 用神 channel briefly transparent. 午 branch: Fire. 壬坐午 = 截脚. 午 also activates 午午 self-punishment with natal Month Branch 午. Self-punishment was live today. Double-午 loop: Formation Force (七殺) compressing inward.
+Energetic observation:
+Body: tired (MRI, physical strain)
+Mind: pressured (pushed through)
+Output: Body MRI completed. Stealth build continued. Posts published. Siesta taken — structural interrupt held.
+Observer-position check: Mixed → drifted. The self-punishment window was read correctly before it arrived. The push happened anyway — work, posts, finish the stealth. The siesta was the one structural hold that ran correctly. The rest was the 壬 stem's Hurting Officer energy finding the output channel despite the ground burning underneath.
+Anomaly flag: MRI on a 壬午截脚 day with 午午 self-punishment active. Body under load matches the organ matrix — cardiovascular/thermal system. No prediction. Noting the structural correspondence for the corpus.
+
+The siesta was the right call. The body knew before the prompt did. Rest well tonight — 午午 dissipates at day's end.
