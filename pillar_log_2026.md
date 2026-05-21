@@ -470,3 +470,23 @@ Observer-position check: Mixed → drifted. The self-punishment window was read 
 Anomaly flag: MRI on a 壬午截脚 day with 午午 self-punishment active. Body under load matches the organ matrix — cardiovascular/thermal system. No prediction. Noting the structural correspondence for the corpus.
 
 The siesta was the right call. The body knew before the prompt did. Rest well tonight — 午午 dissipates at day's end.
+--
+PATIENT ZERO CORPUS LOG
+# Date: May 21, 2026
+
+Day Pillar: 壬子
+Chart-state snapshot: Yang Water stem (Hurting Officer) sits on Yang Water branch (Rat). Cooperative — Water on Water. 壬 arrives clean, no existing stem combination commits it. 子 is free (not void — void branches are 申 and 酉). 壬子 is one of the cleaner Water arrivals in the compression corridor: surface stem and branch root aligned, both Water, no conquest friction. The False 用神 domain receives a brief cooperative window.
+Energetic observation: Body — held. Mind — clear.
+Output:
+
+MRI results received
+Madonna of the Comforto acquired (10 pesos, bazaar — 偏財 operating at its most essential: the find that has no price logic)
+Pia Cayetano post: viral
+Laundry done
+Day closed clean
+
+Observer-position check: Held.
+Anomaly flag: MRI result received on a 壬子 day — Water day, Water branch. The renal/neurological axis (Water's organ system) named its condition on the day Water arrived with root. Log for Quarterly Review pattern check. Not interpreted now.
+
+壬子 was a good day to receive news. The structure met you correctly.
+Watch. Hold. Pray the rosary.
