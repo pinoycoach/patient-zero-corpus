@@ -490,3 +490,9 @@ Anomaly flag: MRI result received on a 壬子 day — Water day, Water branch. T
 
 壬子 was a good day to receive news. The structure met you correctly.
 Watch. Hold. Pray the rosary.
+--
+# For the corpus — May 22, 2026. 丙申. What held today:
+MRI result received, treatment decision held for a better day. Henry's call, listened without committing. Jinggoy piece cleared the 24-hour gate and posted. One Pia reel built and submitted. Novena attended. Papal nuncio officiated. Tears in church.
+守 held through a full day inside the compression corridor.
+Rest well. The shoulder, the chart, the forge — all of it can wait until Monday.
+Watch. Hold. Pray the rosary.
