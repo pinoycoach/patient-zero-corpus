@@ -561,3 +561,228 @@ Body running hot — flagged by Warka (Aurora) prior to trip as anomaly. Literal
 ---
 
 守. Laptop down at 9. The formation did what it was built to do today.
+-----
+
+# WINDOW SEAL DEBRIEF — May 16–25, 2026
+## Two Seals: V1 (written May 15) + V2 (written May 17, updated same day)
+## Opened: May 26, 2026
+## Instrument: V9 Final + Shield V2 + Five Corrections Patch + Mode B Anchor
+
+---
+
+### THE TWO SEALS
+
+**Seal V1** — Written May 15, 2026. Based on V8.1 + Shield V1. Five testable
+claims: thermal load progressive, 梟神奪食 on output, MRI under sustained
+compression, formation holds while governance thins, rosary as the only
+structural Water-bridge. No native interrupt in the corridor.
+
+**Seal V2** — Written May 17, 2026 (updated same day). Based on V9 Final +
+Shield V2 + Five Corrections Patch + 蓋頭 confirmation on LP 乙丑.
+Five updated claims: Water window (May 16–18) cleaner than Fire-Earth
+window (May 19–25); MRI on maximum Earth pressure with concealed 用神 at
+branch root; May 22 (己巳) as highest-pressure day; no Earth-based bridging
+May 22–25; May 18 (乙丑) registering as effort-that-depletes per 蓋頭 dynamic.
+
+Both seals untouched between May 15/17 and May 26. Opened together today.
+
+---
+
+### WHAT WAS OBSERVED — BODY
+
+Thermal load was the corridor's continuous physical thread. May 16: conserved
+and isolated, thermal cooling demanded. May 17: depleted. May 18: rested
+(8pm gate honored, rest taken). May 19–20: OK through effort. May 20: MRI
+completed under physical strain (壬午截脚, 午午 self-punishment active —
+one day earlier than the seal predicted). May 21: results received. May 23:
+body hot, explicitly logged. May 25: body hot confirmed, flagged by Warka
+prior to the Maragondon trip as anomaly. Bathroom slip night of May 17
+carried into May 18 log — physical event, no injury, flagged for Quarterly
+Review. Shoulder/arm pain continuous throughout window.
+
+### WHAT WAS OBSERVED — OPERATIONS
+
+May 16: Wire Dispatch format held. May 17: V9 Final + Shield V2 + corrections
+patch completed and filed. May 18: compatibility mode Gemini LLM Pass 1
+eliminated, replaced with deterministic JS synthesis; 8pm gate honored.
+May 19: coding session, father essay posted (Pablo in the chart). May 20:
+MRI completed, stealth build continued, posts published, siesta taken.
+May 21: MRI results received, Madonna of the Comforto acquired (10 pesos,
+bazaar), Pia Cayetano post went viral, laundry done, day closed clean.
+May 22: MRI treatment decision held for a better day; Henry's call received
+without committing; Jinggoy piece cleared 24-hour gate and posted; Novena
+attended, papal nuncio officiated, tears in church. May 23: Aurora Pijuan
+cross-chart analysis completed, Tayo Na five-element roster confirmed, MRI
+full report/film/CD in hand. May 24: corpus closed, GitHub pushed, Maragondon
+prep with Dennis; Ces Drilon DM post-viral received; Aurora meeting did not
+happen; 1 sale, 1 inquiry from FB BaZi stories. May 25: Maragondon courtesy
+function delivered; Leonardo piece held for Notebook; no public posts.
+
+### WHAT WAS OBSERVED — OBSERVER FRAME
+
+Held: May 16, 18, 19, 21, 22, 23, 24, 25.
+Mixed/Drifted: May 17 (shouted at kin — named in real time; grief-adjacent
+sadness, Mass homily on Tatay and Nanay). May 20 (pushed through the
+self-punishment window — siesta was the one structural hold that ran
+correctly; the rest was Hurting Officer finding the output channel despite
+the ground burning underneath).
+Two drift events across ten days. Both named in real time. Neither concealed.
+
+---
+
+### WHERE THE PREDICTIONS HELD
+
+**Claim: Water window cleaner than Fire-Earth window — HELD.**
+May 16–18 produced the window's most significant technical output (V9 Final,
+corrections patch, compatibility mode rebuild). May 23 and May 25 confirmed
+body hot. The contrast between the window's early and late phase is clean
+in the log.
+
+**Claim: MRI on maximum Earth pressure — SUBSTANTIALLY HELD, one-day shift.**
+Seal predicted May 21 (戊辰 — maximum Earth at stem and branch). Procedure
+completed May 20 (壬午截脚, 午午 self-punishment). Results received May 21
+(壬子 — Water day, Water branch, structurally appropriate for receiving
+diagnosis). Diagnostic action one day early on a structurally more demanding
+day than predicted. News arrived on the predicted day.
+
+**Claim: May 22 as highest-pressure day — HELD (mechanism diverged).**
+Observed pressure on May 22 confirmed: MRI treatment decision held,
+Henry's call handled without committing, Novena attended, tears in church.
+The pressure was real and correctly placed in the window's structure.
+However — see Divergences: the pillar for May 22 in the actual sequence
+is 丙申, not 己巳 as the seal specified. See below.
+
+**Claim: No Earth-based bridging May 22–25 — HELD.**
+No decisions operationalizing Earth as stabilizing force appear in the log
+for this stretch. MRI treatment decision held May 22. Aurora meeting did
+not happen May 24. Maragondon trip was attendance and connection only,
+no commitment. No Earth-bridge violations recorded.
+
+**Claim: May 18 (乙丑) effort-that-depletes — PARTIALLY HELD.**
+Log records body rested and mind grounded on May 18 — not depletion at
+the surface. Output was meaningful. However, bathroom slip the night of
+May 17 carried into May 18, and 丑午害 strain on the Water axis was active
+throughout the corridor. Surface rest with underlying physical strain present.
+The duality is in the log.
+
+**V1 structural conditions:**
+Thermal load progressive — HELD. 梟神奪食 pressure on output — HELD (two
+drift events, gate mostly held). No native interrupt — HELD (rosary named
+as the only Water-bridge; Novena attendance May 22 was when the tears came,
+structurally operative as prescribed).
+
+---
+
+### WHERE THE PREDICTIONS DIVERGED
+
+**Pillar date mismatch — May 22 / 己巳.**
+The seal placed 己巳 on May 22 as the window's highest-pressure day by
+命宮 resonance. The actual daily log shows May 22 was 丙申. 己巳 landed
+on May 24, which the log records as the window's quietest day (body settled,
+mind light, corpus closed and committed). The structural pressure on May 22
+was real — but it ran through 丙申 mechanics, not 己巳 命宮 resonance.
+This is a pillar-date calculation divergence, not a structural one. The
+pressure was correctly placed in the window; the wrong pillar was named
+for that date. Requires verification against a confirmed 2026 anchor
+before the June seal is written.
+
+**MRI one day early.**
+Procedure May 20 rather than May 21. Body moved the appointment to the
+structurally more demanding day (壬午截脚 + 午午 self-punishment) rather
+than the predicted Earth-convergence day (戊辰). Results arrived on the
+predicted day. Appointment-driven divergence, recorded as such.
+
+**May 17 drift not predicted.**
+The seal did not specifically flag May 17 (丙辰) as a drift-risk day.
+丙辰 — Day Master fusion (丙辛合) at stem plus Earth (辰) feeding 忌神 at
+branch plus corridor Day 2. The combination produced the window's clearest
+drift event (shouted at kin, grief-adjacent sadness, body depleted). The
+structural mechanism is coherent in retrospect; the seal did not name it.
+
+---
+
+### WHAT THE DIVERGENCES TELL THE INSTRUMENT
+
+**One — Verify pillar sequence before every seal.**
+The 己巳/May 22 mismatch requires pinning the 2026 pillar sequence against
+a confirmed anchor date before the June seal is written. This is calculation
+discipline, not structural error.
+
+**Two — 丙-stem days inside the corridor need specific flagging.**
+May 17 (丙辰) produced the window's clearest drift event. 丙辛合 Day Master
+fusion plus 忌神-generating Earth branch plus corridor opening phase is a
+compounding risk pattern. Add 丙-stem days to the forward caution register
+for June's seal.
+
+**Three — The rosary is operative, not merely noted.**
+Tears at the Novena on May 22 are in the log. The seal prescribed the rosary
+as the Water-bridge protocol for the 仇神 channel. The body confirmed it in
+church. Record as operative.
+
+**Four — The formation held.**
+Ten days. Two drift events, both named in real time, neither concealed.
+No Earth-bridge violations. No financial decisions under compression.
+The gate held on Ces Drilon, Aurora, the MRI treatment decision.
+The instrument's core prediction — formation holds while governance thins —
+was correct.
+
+---
+
+### CLAIM SUMMARY TABLE
+
+| Claim | Verdict |
+|---|---|
+| Water window cleaner than Fire-Earth | HELD |
+| MRI on maximum Earth pressure | SUBSTANTIALLY HELD — one day early; news on predicted day |
+| May 22 as highest-pressure day | HELD — mechanism diverged; pillar date mismatch |
+| No Earth-bridge May 22–25 | HELD |
+| May 18 depletes rather than accrues | PARTIALLY HELD — surface rest, underlying strain |
+| Thermal load progressive | HELD |
+| 梟神奪食 on output | HELD — two drift events, gate mostly held |
+| Rosary as operative Water-bridge | HELD — tears at Novena confirmed |
+
+**Formation: held.**
+**Observer: held more than drifted.**
+**Instrument: accurate on structure; one pillar-date calculation needs
+verification before June seal.**
+
+---
+
+### NEXT ACTION BEFORE JUNE SEAL
+
+Verify the 2026 daily pillar sequence against a confirmed anchor.
+Pin the 己巳 / May 22 discrepancy. Do not write the June seal until
+the sequence is confirmed.
+
+---
+
+*Window Seal Debrief · Patient Zero Corpus · 乙丑 LP · 丙午 Annual*
+*V9 Final + Shield V2 + Five Corrections Patch*
+*Opened May 26, 2026 · Debrief written May 26, 2026*
+*Two seals opened together — V1 (May 15) + V2 (May 17)*
+
+*The chart names structural conditions. The feet that walk it are human.*
+*Watch. Hold. Pray the rosary.*
+---
+# PATIENT ZERO CORPUS — MAY 26, 2026
+庚子 · Gēng Zǐ
+
+1. Date and day pillar
+May 26, 2026 · 庚子 · 劫財 Stem / 食神 Branch
+2. Chart-state snapshot
+子午冲 active at full weight — natal Month 午 and annual 丙午 both receive the Water clash simultaneously. 乙庚合 at LP-Daily stem reinforces Metal Three Harmony. 子丑六合 ELIMINATED — 丑 locked. Structurally stable. No Micro-Shield.
+3. Energetic observation
+Body: warm. Mind: settled.
+4. Output
+— V9.1 daily tactical executed and cross-validated against Gemini; two Claude errors identified and corrected on record (子丑六合 elimination, Micro-Shield misfire)
+— Stealth daily pillar feature: bricks laid, architecture scoped, build to complete before June
+— Warka visit confirmed for tomorrow
+— 2 FB posts + stories published; no urgency register
+— Mass attended
+— Rosary: first, before the day
+5. Observer-position check
+Held.
+6. Anomaly flag
+A — body warm on PM contact. Noted without interpretation. Filed.
+
+Append-only. May 26, 2026. Compression corridor. 守.
