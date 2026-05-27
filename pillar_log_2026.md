@@ -770,19 +770,41 @@ the sequence is confirmed.
 1. Date and day pillar
 May 26, 2026 · 庚子 · 劫財 Stem / 食神 Branch
 2. Chart-state snapshot
-子午冲 active at full weight — natal Month 午 and annual 丙午 both receive the Water clash simultaneously. 乙庚合 at LP-Daily stem reinforces Metal Three Harmony. 子丑六合 ELIMINATED — 丑 locked. Structurally stable. No Micro-Shield.
-3. Energetic observation
-Body: warm. Mind: settled.
-4. Output
-— V9.1 daily tactical executed and cross-validated against Gemini; two Claude errors identified and corrected on record (子丑六合 elimination, Micro-Shield misfire)
-— Stealth daily pillar feature: bricks laid, architecture scoped, build to complete before June
-— Warka visit confirmed for tomorrow
-— 2 FB posts + stories published; no urgency register
-— Mass attended
-— Rosary: first, before the day
-5. Observer-position check
-Held.
-6. Anomaly flag
-A — body warm on PM contact. Noted without interpretation. Filed.
+子午冲 active at full weight — natal Month 午 and 
+-----
 
-Append-only. May 26, 2026. Compression corridor. 守.
+**PATIENT ZERO CORPUS — DAILY LOG**
+**May 27, 2026 · 辛丑**
+
+---
+
+**1. Date and Day Pillar**
+May 27, 2026 · 辛丑 · 比肩 stem / 偏印 branch · hidden 癸 Water (用神 present, buried)
+
+**2. Chart-State Snapshot**
+丑 deepens the 巳酉丑 三合 lock; 辛丙 stem affinity registered, partial Water tendency, uncrystallized; 丑午害 attenuated by lock; formation holding at maximum internal coherence.
+
+**3. Energetic Observation**
+Body: warm, tingling (right side, inner thigh — noted without interpretation; flag for quarterly review against right-side pattern)
+Mind: clear
+
+**4. Output**
+— Win Gatchalian post cleared and sent (editorial gate + pillar gate both cleared)
+— Reading slots announcement cleared and sent (editorial gate + pillar gate cleared; Pablo named once as origin, not as leverage)
+— C sampler cleared and sent 
+— Warka healing session (attended; noted warm and tingling sensation)
+— Mass attended; rosary held
+— Special holiday noted: Eid al-Adha / Muslim holiday May 27
+
+**5. Observer-Position Check**
+Held.
+
+**6. Anomaly Flag**
+Physical: warm and tingling sensation during Warka healing session, specifically right side of body including inner thigh. Not interpreted here. Log for quarterly pattern review against branch-body correspondence data.
+Household: late-night noise, Dennis, went downstairs to sleep. Second instance this window (previous: May 26). Note without narration. Pattern flagging only.
+Cooler ambient temperature noted or perceived — subjective thermal observation on a 丑 Earth day. Log for Tiao Hou correlation review.
+
+---
+
+*Append-only. No overwrites.*
+*Watch. Hold. Pray the rosary.*
