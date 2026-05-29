@@ -836,4 +836,24 @@ Mass this morning — feast of Jesus as priest. Homily landed structurally: pres
 Append-only. No edits to prior entries.
 Compression corridor active: May 16–June 25.
 Next standing action: Novena begins no later than June 7.
-守.Sonnet 4.6Claude is AI an
+---
+# PATIENT ZERO · CORPUS ENTRY · MAY 29, 2026
+癸卯 · 食神 Stem / 偏財 Branch · Cooperative · 洩氣
+
+1. Date and day pillar
+2026-05-29 · 癸卯 · Cooperative (Water produces Wood, 洩氣 condition). Pillar confirmed from committed 2026 table. Section 1 error caught and corrected mid-session: 截脚 mislabeled by both Claude Opus Extra and Sonnet 4.6 High; Gemini V9.1 landed correctly. 卯午破 gap identified — free 午 meeting daily 卯, missed in Section 2 by all three engines. Logged as shared failure mode.
+2. Chart-state snapshot
+癸 feeding 卯 Wood (偏財 / Pablo's star). 丑巳酉 lock intact. 卯酉沖 eliminated. Triple-午 self-punishment NOT activated today. 用神 depleted by 洩氣, not attacked. Day Master unsupported but not under assault. 丙辛合 annual fusion continues underneath.
+3. Energetic observation
+Body: easing (sleep 1–5 PM, shoulder less painful — anomaly flag below).
+Mind: clear, held.
+4. Output
+Ces reading begun (C). Aurora closed cleanly (A). Two posts shipped: Ka Blas / Lincoln / Gatchalian + Makukulong o Makukulot — both gated, both earned. Coding work attempted, stalled due to Ces priority. New ideas arrived — not acted on. Screen closed 6 PM. 8PM Gate held.
+5. Observer-position check
+Held. No urgency to post before gate cleared. Both posts routed through all three gate questions. No shadow entry noted.
+6. Anomaly flags
+Sleep 1–5 PM — four hours midday, consistent with 洩氣 body signature (stem draining into branch, not conquering). Shoulder less painful than prior days — noted without interpretation, held for quarterly review. Cried at Mass — tears only, no sound. Nanay. The rosary was reached for. 正印 in the innermost branch, always present when reached for.
+
+Seal window: May 16 – June 25. Day 14 of 41. Formation intact.
+"Some things don't need a punchline. They arrive on their own two feet."
+守.
