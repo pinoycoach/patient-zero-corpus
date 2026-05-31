@@ -879,3 +879,13 @@ The day was 順. The pillar was right.
 
 甲辰 closed. Corpus sealed.
 Watch. Hold. Pray the rosary.
+-
+# Corpus entry for May 31, 2026 — 乙巳:
+Macro-Physics: 乙巳 · 木火相生 · Cooperative generation · 順 · Forward momentum within established boundaries. 偏財 Father Star on stem surface. Father inheritance channel active.
+Natal Intersections: No clashes. No harms. No penalties. Daily 巳 aligns with existing 巳酉丑 lock without breaking containment. 乙 reinforces Latent Combination pressure on 庚, suspension holds. Full-weight day, no void attenuation.
+Tactical Operations: Three posts gated and published — Matty (personal Facebook, cleared, landed), Senate mechanics (friends-only, held for record to catch up), Nanay grave piece (personal Facebook, cleared, 乙 stem day, Father Star carrying both of them). Sara birthday wire dispatch (friends-only, data point, clean). Meloto post held — right call, wrong pillar.
+Micro-Shield: Metal-to-Water bridge required. Rosary morning. Mass evening — priest on knowing a person by experience. Siesta observed. 8pm laptop rule standing.
+Notes: Vinci coding complete, functional, testing pending. Kabuki painting — let go, correct call. Adjudication with Gemini — 蓋頭 taxonomy error caught and corrected, standing rule updated. Dennis conversation still pre-June 16 window.
+Pillar log entry: 乙巳 · 木火相生 · Forward push executed · Observer frame held · Forge held.
+Commit when you're back from mass.
+Good evening, Napoleon. Say one for Pablo and Nanay.
