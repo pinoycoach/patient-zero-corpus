@@ -915,3 +915,39 @@ OBSERVER-POSITION CHECK: held
 ANOMALY:
 Dennis asked to print the book. Felt the pull to speak. Held.
 Castor oil on shoulder — noting physical, no interpretation. Third consecutive day. Mobility observation logged.
+--
+
+## 2026-06-02 · 丁未
+
+1. **Date and day pillar:** June 2, 2026 · 丁未 (day) · 癸巳 (month — engine-verified)
+
+2. **Chart-state snapshot:** 丁七殺 bare at stem; 己偏印 (未 principal) presses
+   癸 用神 from daily branch; 巳午未 summer directional forming via natal/annual
+   午 + arriving month 巳 + daily 未; 午未六合 live via natal 庚午 (fixed field),
+   partially softening standing 午午 self-punishment; 巳酉丑 lock undisturbed.
+
+3. **Energetic observation:** Body — purge. Mind — clear.
+
+4. **Output:** One post filed (Wire Dispatch — Jinggoy arrested, empty chamber,
+   June 5 sine die, bills stall — fact-checked and corrected in operator's own
+   hand before posting). Parable piece held for June 7 壬子 Water door. Barangay
+   health worker plea held at gate — number unverified, typo in closing line,
+   not ready. Trending clip (sir/sir/sir, Remulla) laughed at, not posted.
+   Dennis's twin charts (7am/8am) mapped, not interpreted. June 7 friend chart
+   grid drafted. Galunggong, salad, no rice. Aircon. Rest.
+
+5. **Observer-position check:** Held.
+
+6. **Anomaly flag:** Somatic purge sequence — overslept (woke 11:40), kati
+   without pantal or rash (dry-heat signature, prior crucible pattern recognized),
+   LBM as cleanse not sickness, energy restored post-chart-work. Relieved by buko
+   juice (Water bridge, instinctive) + shower. Internal warmth persisting against
+   cooler ambient air (habagat incoming per PAGASA; chart thermodynamics
+   independent of weather). Pattern: body venting thermal load the chart cannot
+   vent cleanly. Clears in one day — no illness. / Engine calibration finding:
+   PillarMind month-boundary bug confirmed (app reported 甲午, engine returned
+   癸巳 — Gregorian first-of-month vs. solar term ~June 5–6). Multi-pass Gemini
+   convergence failure logged separately (see calibration entry 2026-06-02).
+   Codebase frozen until June 26 per 守 mandate. / Unnamed: a connection surfaced
+   through the work today. People not named. Enough that something led to a friend.
+   For the June 26 debrief.
