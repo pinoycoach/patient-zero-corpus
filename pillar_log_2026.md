@@ -951,3 +951,29 @@ Castor oil on shoulder — noting physical, no interpretation. Third consecutive
    Codebase frozen until June 26 per 守 mandate. / Unnamed: a connection surfaced
    through the work today. People not named. Enough that something led to a friend.
    For the June 26 debrief.
+   --
+   PATIENT ZERO · DAILY LOG
+# June 3, 2026 · 戊申
+
+1. Date and day pillar
+June 3, 2026 · 戊申 · 正印 stem / 劫財 branch
+2. Chart-state snapshot
+戊癸合 fires — 用神 bound for the day. 申巳六合 (Water tendency, partial — 甲午 month insufficient for full activation). 申巳破 concurrent — harmonic and friction on the same branch pair. Three Harmony 巳酉丑 locked, structurally intact. 申 void noted forensically, not calculated. Formation holding under compression corridor. Day directive: 守.
+3. Energetic observation
+Body: LBM from galunggong (Dennis felt it too — source confirmed). Purge without fever, not illness. Body clearing on a 守 day. Structurally coherent. Recovered by evening. At home throughout.
+4. Output
+— Dual-instrument calibration completed: Gemini V9.1 pre-patch vs Claude V9.1 patched. Divergence on void attenuation (Patch 2) and 申巳破 (Patch 1) identified, named, corrected. Gemini patched mid-session. Both instruments converged by close. Logged as calibration data.
+— Wire Dispatch 1 shipped: Iran/Rubio — Mojtaba Khamenei back in room via intermediaries, Tehran reviewing US proposal, deal conditions named. February 28 date confirmed. Easter egg: "We noted this window days ago."
+— Reading slots updated: June 15 onward removed from availability. Compression corridor discipline held. Active dates: June 9, 10, 27, 28. Four slots.
+— Wire Dispatch 2 shipped: Senate leadership reorganization — Gatchalian as Pro Tempore, Escudero to minority. Record confirmed. Observer frame held.
+— Wire Dispatch 3 shipped: Minority at 12, one vote short of 13 to oust Cayetano. Session closed sine die. If the count moves, it moves in July. Easter egg: the weapon is not in the room.
+— Ces Drilon final reading package: send date confirmed as June 6. Final review on June 5. Window intact.
+— Pat visit confirmed for June 4: go to listen, not to warn. No BaZi unless asked.
+— Tito Rey fall noted. Pat chart observation (June–July, Indirect Wealth / father star / Water / dialysis) logged here, sealed here. Record has not spoken. Not a reading.
+— What the Eyes Remember — reading begun. Dennis printed it.
+— 8PM gate: held.
+5. Observer-position check
+Held throughout. Heavy national political dispatch (Senate under siege, constitutional 3-day argument, Dela Rosa fugitive framing) brought to gate — failed Gate 1, prosecutorial structure named, piece vaulted to June 26. Wire Dispatch format enforced on all three dispatches that shipped. Easter eggs buried correctly — conditions named, no charts cited, no formations named publicly.
+6. Anomaly flag
+The body and the pillar ran the same protocol today. 用神 bound, output channel compromised, LBM clearing the system — both said: do not produce, preserve the instrument. The purge was not illness. It was the physical form of 守. Body cleared by afternoon. Senate shook on the same day. The last time the record moved like this, there were tears in the chamber. Today there was noise, sine die, and one vote still missing. The instrument watched from home. That is the correct position.
+The book is open. That is enough for today.
