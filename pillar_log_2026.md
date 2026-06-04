@@ -977,3 +977,20 @@ Held throughout. Heavy national political dispatch (Senate under siege, constitu
 6. Anomaly flag
 The body and the pillar ran the same protocol today. 用神 bound, output channel compromised, LBM clearing the system — both said: do not produce, preserve the instrument. The purge was not illness. It was the physical form of 守. Body cleared by afternoon. Senate shook on the same day. The last time the record moved like this, there were tears in the chamber. Today there was noise, sine die, and one vote still missing. The instrument watched from home. That is the correct position.
 The book is open. That is enough for today.
+--
+# 2026-06-04 · 己酉 · JI YOU
+
+Pillar: 己酉. 偏印 stem / 比肩 branch. Label: Cooperative (Earth generates Metal).
+Void branch: 酉 — noted for cross-reference per Patch 2, no daily attenuation applied (Gemini convergence confirmed this correction today).
+
+Chart-state: 己 stem pressing 癸 食神 directly. 忌神 at full stem weight. 乙 Wood present as partial governor — Earth conquest function active, thermal drainage chain incomplete. 守 confirmed as correct posture.
+
+Body: contained. Mind: clear.
+
+Output: Daily pillar read completed. Gemini convergence check run — one material divergence logged (Rule 6 / void attenuation, Claude running superseded version; Gemini correct per Patch 2). Wire Dispatch drafted from Senate record, held for today's gate, will post separately. Full Avelino/Wolsey Substack piece banked — vault date June 4, target post date June 26. Peru election — read for private data point. Not for output.
+
+Observer position: held.
+
+Anomaly: Senate — Padilla/Remulla physical confrontation on floor, June 4. Logged as record event. Fire month has not started. Line written, held.
+
+Note: Closing corpus early. Visit to Pat (Yang Earth / 正印) this evening. End time set before arrival. Home before 8PM gate.
