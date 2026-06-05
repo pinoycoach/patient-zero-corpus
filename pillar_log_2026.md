@@ -994,3 +994,10 @@ Observer position: held.
 Anomaly: Senate — Padilla/Remulla physical confrontation on floor, June 4. Logged as record event. Fire month has not started. Line written, held.
 
 Note: Closing corpus early. Visit to Pat (Yang Earth / 正印) this evening. End time set before arrival. Home before 8PM gate.
+--
+# Corpus close for June 5:
+Corpus close for June 5:
+庚戌 day, tail end of 甲巳 month. 午月 opens tonight at 11:48.
+What held: 8PM gate. No heavy posts. Wire Dispatch only cleared, nothing pushed. Discipline held on Marcoleta. Pat's chart filed before reading. Bathroom flashes held without acting. 
+What arrived uninvited: oil, tears, the homily landing exactly where it needed to.
+What opens tonight: the Horse. Walking distance. Dennis. Ed Chico. 11:48 the month turns.
