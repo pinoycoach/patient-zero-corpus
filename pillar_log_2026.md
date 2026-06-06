@@ -1001,3 +1001,11 @@ Corpus close for June 5:
 What held: 8PM gate. No heavy posts. Wire Dispatch only cleared, nothing pushed. Discipline held on Marcoleta. Pat's chart filed before reading. Bathroom flashes held without acting. 
 What arrived uninvited: oil, tears, the homily landing exactly where it needed to.
 What opens tonight: the Horse. Walking distance. Dennis. Ed Chico. 11:48 the month turns.
+--
+
+# June 6, 2026 — 辛亥
+Chart-state: 亥 clashes free Hour 巳. Day Branch 巳 locked in 巳酉丑, ELIMINATED. One live front, secondary only. 比肩 stem, output channel open. Metal Three Harmony holds.
+Body: squeezed. Mind: tired.
+Output: Tactical V9.1 run + Gemini adjudication (patch violations logged, conceded). Horse-month post cleared for posting. Wire Dispatch — Senate June 3, cleared and formatted. Wire Dispatch — Andreeva/Chwalinska Vinci read, cleared. Tita Char/Master Bae BaZi humor piece, gate cleared, craft note on footnote scaffolding. Ces Drilon final reading delivered. Corpus logged.
+Observer-position: Held.
+Anomaly flag: Tummy still unsettled from last night. Physical note only, no interpretation. Log for quarterly review against pillar pattern.
