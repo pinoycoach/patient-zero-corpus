@@ -1116,3 +1116,36 @@ June 12 pillar check in the morning before the Tita Char piece ships. Gate requi
 守. Day closed.
 
 Watch. Hold. Pray the rosary. Then sleep.
+
+--
+ # CORPUS ENTRY — June 12, 2026
+
+Daily Pillar: 丁巳
+
+Patient Zero · Append-only
+
+THREE-WAY ADJUDICATION — 丁巳
+Section 1–3: Claude + Gemini aligned. DeepSeek rejected on Rule 4 violation — treated both natal 巳 as locked, conflating the locked Day Branch with the free Hour Branch.
+Section 4 Micro-Shield: DeepSeek correct. Claude erred. Bridge = Earth, not Water. Full chain: Fire → Earth → Metal. Water is the 用神, standing requirement. Earth is today's specific bridge. Correction logged.
+Standing corpus note: DeepSeek's analytical advantage is mechanical chain fidelity on isolated calculations. Absence of accumulated chart narrative prevents the conflation of standing structural needs with day-specific bridge requirements. Use accordingly.
+
+EDITORIAL
+Two pieces cleared and posted: halfie piece (Tita Char, Independence Day, personal Facebook + DigitallyManila) and Rene Baterbonia body-going-home piece. Both passed gate. Both fit 丁巳 Earth posture — containment, record-forward, grief without discharge.
+Systemic failure paragraph — crown as personal property, two lives — held. Gate paused it. June 26 material. The sting is earned. The record does not expire.
+
+COMPRESSION CORRIDOR
+Corridor active through June 25. 丙辛合 Day Master grip at maximum pressure today under 丁巳 Fire saturation. The break came through the small thing — ants, garbage bag — as it always does. Flare happened. Repair happened. Dennis held the Water-Wood space. Repair was short and real.
+
+MASS — SACRED HEART OF JESUS
+Feast day landed where it needed to. The homily: love is enough, give in service. Applied structurally to the instrument — BaZi reading as 食神 operating correctly. Not wealth-chasing. Output because output is its nature. Pablo's school confirmed from a different direction. Inheritance check: passing.
+The frame that holds regardless of what June 26 debrief produces: serve the instrument. The instrument serves whoever needs it.
+
+PAT'S SALUBONG
+Decision pending. 1:30AM arrival planned. Dennis present. Corridor exception — legitimate relational anchor, oldest friend's 61st, Independence Day civic layer. Not an identity push or financial decision. Earth posture: contained, present, not dispersed. Leave before 2AM.
+
+June 12, 2026 · 丁巳 · Independence Day
+
+The body went home to Agusan. The flag went up. The gate held where it needed to hold.
+Watch. Hold. Pray the rosary.
+
+Ready to commit. Your call on the Pat entry — do you want to add whether you went or held, before we seal?
