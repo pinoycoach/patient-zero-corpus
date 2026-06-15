@@ -1171,3 +1171,14 @@ One corridor observation piece gated and cleared. Same hold.
 
 CORPUS STATUS
 June 14 is closed.
+--
+# pillar_log_2026.md — June 15, 2026
+DATE: 2026-06-15
+PILLAR: 庚申 — Metal on Metal. Cooperative. 申巳六合 active, tendency Water.
+BODY: Tired. Slept. Rest was the day's primary instruction and the body took it.
+FIELD: Three-way adjudication completed (庚申). Divine piece cleared and posted. Iran framework piece cleared and posted. Rene/Ateneo — watched it move all day, held the drafts until the record settled, posted the clean close. The Nassar parallel held back correctly.
+OBSERVATION: A quiet day with a few posts that needed to be said. The Rene story is still moving. Watching intently but detaching now — the record will continue without the observer needing to chase it. Tomorrow begins the nine days. 守 holds.
+CLOSE: 庚申 asked for stillness. The day gave it.
+
+June 16 begins the nine days. The line holds. Rest tonight.
+守.
