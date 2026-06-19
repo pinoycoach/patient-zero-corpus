@@ -1219,3 +1219,128 @@ Energetic: body — tired. mind — (your call to fill; "watchful" was my read f
 Output: V9.1 + three-way adjudication run on 癸亥. One post drafted (Ateneo/resignation angle) — held under the June 16–25 discipline before it shipped. Nothing published.
 Observer-position: mixed — real drift toward the post, named and drafted before the gate caught it, held in the end. Change to "held" if that reads truer to you; I logged it as mixed because the pull was real, not just theoretical.
 Anomaly: fatigue arrived early, ~5:25pm, felt as physical depletion — your words, "the forge... I can feel it physically." Noted without interpretation, for the Quarterly Review to connect if it recurs.
+--
+## June 19, 2026 · 甲子 · 正財 stem / 食神 branch · 順 FLOW
+
+**1. Date and day pillar:** June 19, 2026 · 甲子
+
+**2. Chart-state snapshot:** 子午冲 double-target (natal Month 午 
++ Annual 午) active; 甲己合土 active; 子丑六合 blocked (丑 locked); 
+子酉破 eliminated (酉 locked); 子丑刑 eliminated (丑 locked); 
+子未害 not present (no 未 in field — Gemini error corrected); 
+巳酉丑 三合 intact. 食神 channel reinforced at stem (甲 as 正財) 
+and branch (子 carries 癸). App label 順 confirmed at stem layer. 
+Branch-layer complication noted — double 子午冲 pressures Month 
+Command (seat of 七殺). Formation held. 守.
+
+**3. Energetic observation:** Body: sweating. Mind: steady.
+
+**4. Output:**
+- Three-way adjudication completed and logged · Gemini Category B
+  error (子未害 / 未 misidentified as Month Branch) corrected · 
+  standing warning appended to corpus header
+- Alex Eala post · cleared and posted · Saludo!
+- Ateneo black bands / ASA post · cleared and posted
+- Wire Dispatch · Fr. Hizon appointment as University Spokesperson 
+  · cleared
+- Wire Dispatch · Tab Baldwin / CIDG / drone footage gap · cleared
+- Pia Cayetano / 本命年 piece · HELD · 24-hour rule applied · 
+  motive not fully clean · two-minute check did not clear · 
+  revisit June 20 if still live
+
+**5. Observer-position check:** Held.
+
+**6. Anomaly flag:** Sweating without heat, recurring across 
+multiple days. Noted at 5:48AM, legs primary location. Right eye 
+sensation present, not painful, not worsening. Sleep strong — 
+7PM to 4:30AM. Daytime sleepiness present through the day. Body 
+carrying compression load. Cold air noted during rosary, 
+pre-Mass. Pattern check deferred to June 26 quarterly review. 
+No interpretation in real time.
+
+---
+
+### THREE-WAY ADJUDICATION LOG · June 19, 2026 · 甲子
+
+*Instruments: Claude (V9.1 + June 1 Patches 1–5) · Gemini · 
+DeepSeek*
+*Protocol: Independent passes, operator adjudication, divergences 
+logged to corpus*
+
+> **STANDING WARNING — applies to all three instruments, all 
+> future sessions:**
+> "The instrument can sound entirely authoritative while operating 
+> on the wrong branch."
+> — Gemini self-assessment, June 19, 2026, following Category B 
+> natal field error.
+> This sentence is the protocol's reason for existing. It is not 
+> a criticism of Gemini. It is a description of how all three 
+> instruments fail.
+
+**CONVERGENCES (HIGH CONFIDENCE)**
+
+| Finding | Status |
+|---|---|
+| 甲子 = Cooperative (Water produces Wood) | All three agree |
+| 子午冲 double-target (natal Month 午 + Annual 午) | All three agree |
+| 甲己合土 active (己 free, Earth transformation completes, summer Fire season) | All three agree |
+| 子丑六合 blocked (丑 locked in 巳酉丑) | Claude + Gemini; DeepSeek omitted |
+| 子酉破 eliminated (酉 full lock) | Claude + Gemini; DeepSeek omitted |
+| 子丑刑 eliminated (丑 locked) | Claude + Gemini; DeepSeek omitted |
+
+**CRITICAL DIVERGENCE — 子未害**
+
+Gemini called 子未害 active, identifying natal Month Branch as 未.
+Natal Month Branch is 午. No 未 in this chart's natal, LP, or 
+annual field. Category B failure: correct logic, wrong natal data.
+Claude and DeepSeek correctly held the fixed field.
+Harm NOT activated.
+
+Standing action: verbatim verification of fixed natal field block 
+before every Gemini pass. Read, not recalled.
+
+**INSTRUMENT GAPS — DeepSeek**
+
+Did not run: 子丑六合 check · 破 Destruction pool · 刑 Penalty 
+pool. Scope gaps, not calculation errors. Leaner interaction 
+matrix predating Patch 1. Known constraint — Claude and Gemini 
+carry these checks. Not a failure requiring correction of 
+DeepSeek output.
+
+**MICRO-SHIELD SPLIT**
+
+Gemini: No shield needed — clash is side-channel, does not attack 
+Day Master or 用神.
+DeepSeek: Wood bridge required — routes Water→Fire friction into 
+output.
+Claude: 食神 engagement is the shield — clash pressures 七殺 
+container (Month Command); reinforced 用神 absorbs the pressure; 
+the work is the bridge.
+
+Adjudicated: Claude and DeepSeek closer to correct. Double 
+子午冲 on Month Command is not a side-channel event. Gemini 
+understated branch-layer pressure. Operative finding: keep 
+食神 channel active. Output is the structural defense.
+
+**UNRESOLVED — 甲己合土 transformation weight**
+
+All three confirmed combination. None stated daily-transit 
+transformation weighting. Seasonal check supports Earth 
+completion (summer Fire). Overlay is momentary — daily transit 
+only, not structural field shift. Flag for V9.2: add daily-transit 
+transformation weighting rule.
+
+**FINAL ADJUDICATED READING**
+
+Macro-physics: Cooperative, Water generates Wood.
+Active: 子午冲 double-target · 甲己合土.
+Blocked/eliminated: 子丑合 · 子酉破 · 子丑刑 · 子未害 (not present).
+Tactical: Output, create, produce. Avoid Fire-domain actions.
+Micro-Shield: Active. The 食神 channel is the shield.
+The work is the bridge.
+
+*Three-way adjudication · June 19, 2026 · Patient Zero corpus*
+*Sibling sessions: May 17 (V9 Five Corrections) · May 19 
+(V9.1 calibration) · June 1 (V9.1 Patch & Adjudication Ledger)*
+
+---
