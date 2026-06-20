@@ -1344,3 +1344,10 @@ The work is the bridge.
 (V9.1 calibration) · June 1 (V9.1 Patch & Adjudication Ledger)*
 
 ---
+# CORPUS ENTRY · June 20, 2026 · 乙丑
+
+PILLAR: 乙丑 · 偏財 stem / 偏印 branch · 守 HOLD
+ADJUDICATION COMPLETED: Three-way (Claude + DeepSeek + Gemini). Clean consensus on 蓋頭, void, stem combinations, Sections 3 and 4. Primary divergence on 丑午害 resolved: ELIMINATED under completed 巳酉丑 三合 lock. Claude error flagged and logged — forensic-layer bleed into daily tactical layer. DeepSeek error flagged — non-existent 午未六合 introduced. Gemini clean on both divergence points. Silent gap on all three: 丑丑 self-punishment precondition unnamed. V9.2 candidate surfaced: explicit self-punishment dismissal rule when any branch duplicates in the active field.
+CONTENT: Ateneo piece (Ava Dumaup / Rene / Divine / Fr. Bobby) drafted, roughened, gate-checked. Held per 乙丑 守. Piece ready to ship on 丙寅. Alex Eala dispatch drafted and cleared — Wire Dispatch register, safe on any day.
+BODY: Tired. Dennis asked to cook. The body said no. Held the comment. No self-punishment entertained, noticed, and set down. The corridor does not require performance. It requires holding.
+守 HONORED. Five days remain.
