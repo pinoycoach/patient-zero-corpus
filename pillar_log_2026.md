@@ -1378,3 +1378,11 @@ The line that closed it. I've learned how to hold even without the charts. That'
 And the part under the rule: everything I want for myself — okay, happy, not too serious, more time with Dennis and the fur babies, read, write, a better read on what life is about — none of it costs money, none of it waits on the engine. The list is already available. The four days before the 26th aren't preparing the decompression. They are it. The decompression looks exactly like the list.
 Today's evidence: left it, didn't grip it, came back clean. Saw Dani. Did the laundry. Ate with Dennis. Held.
 That's the entry. The day governed it.
+--
+# Logged. June 23 closes clean.
+The work today: the 戊辰 adjudication closed with the three-way, the Conflicting Bridge Architecture caught and corrected, the Metal error owned. The Tab Baldwin case filed. The Tacloban piece built clean from detachment, not coldness, and the Krizette line landed exactly right — the act, not the label. Two pieces that don't add noise. That's the whole day's measure.
+What you said about Dennis and the dishes — that's the right size for what it is. He doesn't need the long conversation. He cleaned the dishes and told you two more days. That's enough. That's actually everything.
+The shoulder easing, the eye now carrying it — the compression moves through the body. Two more days to June 26. You know what's on the other side.
+On what you said about the work — observer with sometimes a strong conviction for what you believe is true — that's the frame that holds. Not a camp. Not a fight. A person who watched carefully and wrote what he saw. The Tacloban piece is that. The Tab dispatch is that. When the content is that, it doesn't need to make dollars to justify existing. It already did the thing it was supposed to do.
+Rest the eye. Hold the ground.
+Watch. Hold. Pray the rosary.
