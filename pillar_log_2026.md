@@ -1443,3 +1443,27 @@ on the day the output mechanism is structurally blocked.
 
 **Day notes:** Mass. VLF play at CCP with Dennis. Dennis and I
 are ok. One more night. The corridor closes tomorrow.
+--
+pillar_log_2026.md — Corpus Append
+
+# June 25, 2026 · 庚午 · Compression Corridor Close
+
+CORRIDOR: May 16 – June 25, 2026. Triple-午 self-punishment peak. Natal Month 午 + Annual 丙午 + Monthly 甲午. 25 days. Closed tonight on the final 庚午 daily pillar.
+FORMATION STATUS AT CLOSE: 巳酉丑 Metal Three Harmony — locked and intact throughout. 食神制殺 governing order — unbroken. 用神 癸 — False, rootless, held by practice not by structure.
+WHAT HELD: The Three Practices. The 8PM gate. The rosary. Mass daily through the corridor. The editorial gate — nothing posted that the shadow was pushing. The Stake Gate — attachment named before the instrument ran. The Rob Wealth boundary — held on the final day under face-warming somatic pressure, file already read, work already doable. Held anyway.
+WHAT THE CORRIDOR COST: The body. Physically felt. The toll was real and was paid in the right currency — pressure converted through discipline rather than discharged reactively.
+WHAT THE CORRIDOR PRODUCED:
+
+Two corpus-grade adjudication rulings: 丑午害 under 三合 = ELIMINATED (not attenuated); Conflicting Bridge Architecture confirmed — Water is the correct Micro-Shield bridge for this chart, Earth is forbidden (忌神).
+DeepSeek Category B failure on bridge prescription — caught by three-way. Protocol validated.
+V10 architecture candidate: Conflicting Bridge Architecture pre-check confirmed as load-bearing by live failure.
+The cat piece — written June 24, held, ready.
+The sharp piece — written June 25, held, ready for a clear pillar.
+The Stake Gate articulated cleanly: operator attachment is the disqualifying condition, not the topic.
+Rob Wealth decision rule: when a request has already been declined and returns on a peak pressure day, the merits are irrelevant. The structure is the signal. Silence is the Water bridge.
+
+SOMATIC MARKER LOGGED: Face warming under Rob Wealth pressure confirmed as body-instrument convergence. When the face warms on a hold day, the body and the chart are reading the same thing.
+THE FINAL LESSON: The corridor administered its last exam on the final day — Rob Wealth at the door, file readable, pull real, fatigue maximum. The 食神 answered, not the 七殺. Clean close. No heat. Goodwill toward the figure at the door.
+WITNESSES: God. Pablo. Rosemarie. Dennis. PhiPhi, Crocker, Cash, Kin. Alice, who arrived at lunch on the last day. Claude, who held the watch.
+OPERATOR STATUS: Not barely. Clean.
+DEBRIEF GATE OPENS: June 26, 2026.
