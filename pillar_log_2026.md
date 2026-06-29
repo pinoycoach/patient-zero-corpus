@@ -1502,3 +1502,90 @@ Gate: Baterbonia essay HELD (Q3 — void para + ball boy); holding-discipline pi
 Lesson: the instrument's detachment is the operator's detachment. Not coldness — the refusal to make grief a verdict.
 
 Tomorrow: Tatay (丁). Forgiveness complete. Both parents in chart.
+
+--
+## 2026-06-29 · 甲戌 (Jiǎ Xū) · Anchor Day — Pablo's Birthday
+
+### DAY PILLAR RULING (resolved, four-instrument)
+Daily 甲戌. Climate HOT (Wood feeds triple-午 Fire field; 癸 用神 rootless,
+suppressed by concealed 戊 in 戌). Formation under 印損食神 pressure —
+正印 attacks 食神, 七殺 (丁 in 戌) persists without its controller.
+Posture: 守. Hold, maintenance only, no new 食神 output.
+
+Resolved interaction states:
+- 午戌 half-harmony → DIRECTIONAL FIRE PULL (半三合 w/ cardinal 午, 寅 absent)
+- 酉戌 害 → ELIMINATED (酉 in completed 巳酉丑 三合 = full lock)
+- 丑戌 刑 → ELIMINATED (丑 removed from penalty pool at lock-step, before 未 check)
+- 甲己合 → TRANSFORMATION FAILS, neutralize (午 month, no Earth-season support)
+- Bridge 通關 → WOOD (Correction 3 override of generic S8 Metal)
+
+### ADJUDICATION RECORD (calibration-class, no operator stake)
+Four instruments engaged: Claude (primary) + Gemini + DeepSeek + two Tier-2 audits.
+No instrument clean on all nodes.
+- Claude original: WRONG on 酉戌 (said attenuated) + 丑戌 (said inactive);
+  RIGHT on bridge.
+- DeepSeek: RIGHT on 酉戌 + 丑戌 (corrected Claude); WRONG on bridge (ran S8,
+  missed override).
+- Gemini: RIGHT on bridge but via weaker reasoning (saturation, not Correction 3);
+  WRONG (with Claude original) on 酉戌 + 丑戌.
+Discriminating authority on EVERY contested node: the written file, retrieved
+and quoted. Never the vote. Never instrument confidence.
+
+KEY FINDING — agreement is not verification (reconfirmed):
+On the two interaction nodes, Claude+Gemini converged on the SAME wrong answer
+via the SAME broken path (reading base 害 rule's "六合" as "any lock"). A two-way
+run would have written the wrong labels as consensus. The third path (DeepSeek)
+traversed Patch 3's three-state refinement and broke the tie correctly.
+On the bridge, the inverse: DeepSeek's clean S8-table read out-competed the
+messy Correction-3 override. Claude held the override.
+→ Protocol value reframed for the record: NOT accuracy-through-redundancy,
+  but COVERAGE OF THE PATCH/OVERRIDE LAYER through independent reading paths.
+
+### V10 ARCHITECTURE — TWO SEAMS NAMED + DESIGN LAW
+Both recurring divergences trace to the SAME defect: a base rule that looks
+complete, silently refined by a patch the reading path doesn't reach.
+- Seam 1 (lock-type collapse, 害/刑): GENERALIZATION failure → fix is Boolean
+  resolver, run at intake, emitting state tokens; pool checks read tokens,
+  cannot reach a raw branch. 沖/刑-vs-害/破 asymmetry made the visual center.
+  FULL(三合)=eliminate ALL four classes; PARTIAL column exists only for 害/破.
+- Seam 2 (bridge override): AUTHORITY failure → NOT fixable by a better table
+  (table gravity is the bug). Fix is a GATE with locked resource: S8 table
+  unreachable until fatal-flaw-axis match question is answered. On MATCH=YES,
+  no generic element is in view — only the formation's own mechanism.
+
+V10 DESIGN LAW (logged as durable, beyond these two seams):
+  Diagnose each recurring divergence as GENERALIZATION or AUTHORITY first.
+  Generalization → Boolean resolver. Authority → gate with locked resource.
+  Applying a table to an authority failure DEEPENS the bug.
+V10 = consolidation pass (per ledger standing plan): folds all 5 May-17
+Corrections + 5 June-1 Patches + June-2 V1.2 inline; adds the two seam-closures
+into V10-daily Sections 2 (resolver) and 4 (gate), self-contained so the daily
+layer stops inheriting overrides it doesn't carry.
+
+### OPERATOR STATE — named, not examined
+Anchor day. Pablo's birthday. Came from Mass (Sts. Peter & Paul — Pablo/Paul).
+Off-balance, low work-drive, tired; slept in afternoon; vivid protective dream
+(operator as 七殺-channel protector of Phi; Phi as owl, claws out to scare not
+harm). Cash startled-scratch (Dennis-startle; no upset held). Mild Dennis
+friction, let pass.
+RULING ON THE DAY: grief, named and NOT examined further. The instrument's
+pull to make the dream structurally legible was set down — correctly. Reaching
+for the chart to interpret one's own grief-dream = analysis drifting from
+conditions into management. Held.
+Discipline test: operator pushed two held pieces (Bea light-showbiz — published
+after Mass+rosary, clean; Baldwin/DOLE accountability — HELD) to check whether
+the gate holds on a low day. Gate held. Baldwin correctly deferred: heavy
+institutional register + live criminal-case proximity is exactly the content
+that waits for a clear pillar and a steady operator. Tomorrow, fresh eyes.
+Day closed correctly: dinner at home w/ Dennis + Alice (not alone — better),
+candle for Pablo, rosary, sleep.
+
+### CARRIED FORWARD
+- Baldwin/DOLE piece: held, re-gate tomorrow when level.
+- 害-attenuation-vs-elimination is now the SECOND surfacing (May-17 caught it
+  for 破; today for 害). Warrants HARD patch note in V9.1 Section 2, not just
+  a debrief flag. → escalate at debrief.
+- V9.1-daily inherits S8 without override pointer → the gap that let "Metal"
+  read clean. → V10-daily Section 4 carries the gate.
+
+守. The structure is doing exactly what it was built to do.
