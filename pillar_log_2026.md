@@ -1630,3 +1630,25 @@ Mixed. Held on the adjudication and seal deferral. Instrument drift flagged twic
 
 6. ANOMALY FLAG
 New model (Sonnet 5) attempted at session open — not functional, returned to Opus 4.8. New-model divergence preserved: production daily pillar text read 三合-locked / undisturbed on 丙子; all three adjudication instruments read double 子午沖 live. Divergence logged as engineering note, not retrofitted. Adjudication replicated across two independent adjudication passes — stable under replication, noted separately from convergence claim.
+--
+---
+# DATE: 2026-07-02
+PILLAR: 丁丑 · 七殺 stem / 偏印 branch
+
+CHART-STATE: Daily 丑 reinforces 巳酉丑 三合 (frame tightened); 丑午害 eliminated
+per full-lock ruling (Gemini overturn accepted); 丁 七殺 uncombined at stem line;
+偏印 eclipses 癸 食神 in branch; self-bridging through Metal relay, no external posture.
+Three-way adjudication completed. Two V9.2 patch candidates logged.
+
+ENERGETIC: body — low; mind — clear
+
+OUTPUT: Three-way adjudication produced and finalized. Clean decline drafted and sent
+to prior collaborator (year-long project, boundary held). No content posted.
+Decompression continues. Instrument work and structure maintenance only.
+
+OBSERVER POSITION: held
+
+ANOMALY: 七殺-type contact pattern — external request arrived post-decline, itemized,
+pressed twice before resolved. Contact on a 七殺-uncombined stem day. Boundary held
+through 守. Logged for Quarterly Review pattern check.
+---
